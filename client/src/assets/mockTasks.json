@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "title": "Setup Projektstruktur",
+    "description": "Initiale Projektstruktur anlegen und Abhängigkeiten installieren",
+    "status": "todo"
+  },
+  {
+    "id": "2",
+    "title": "API Endpoint implementieren",
+    "description": "GET und POST Endpunkte für Tasks bereitstellen",
+    "status": "inProgress"
+  },
+  {
+    "id": "3",
+    "title": "Drag & Drop UI bauen",
+    "description": "Aufgaben per Drag & Drop zwischen Spalten verschieben",
+    "status": "done"
+  },
+  {
+    "id": "4",
+    "title": "Mockdaten als Fallback laden",
+    "description": "Lokale Daten laden wenn API nicht erreichbar ist",
+    "status": "done"
+  }
+]
